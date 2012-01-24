@@ -1,0 +1,17 @@
+f393abf25a0e4499cf89cb825a22f1a5 *DESCRIPTION
+18085bdab812ad85112bdfc1ab49c262 *NAMESPACE
+831c0f6eb8b835c980dcc691ec552ac5 *R/UWHAM-code.R
+689b2fe99f88a09d5db468f0a1f97570 *data/cyclooctanol.rda
+ba198815b22d11bec1a7b64d8dddcd8c *data/ligand2.hard.rda
+84c324da12f052f0ffe84162e0c45e96 *data/ligand2.soft.rda
+f8b03b9694deb1e98402b8ea8959c1d6 *inst/CITATION
+7c3099d79d84e2d266049adc05074d71 *man/UWHAM-package.Rd
+782c7c08aa60bc884a69cb1945fd48be *man/cyclooctanol.Rd
+3e2798806629aa9dda0cc79259aa399d *man/histw.Rd
+abec673bac034a98009d404882ccc48d *man/insert.Rd
+de401003ab2bf490c33866be9063023d *man/ligand2.hard.Rd
+fa1433e0f8b7e732c8ddaabc3fc914b5 *man/ligand2.soft.Rd
+0d7714172b4c759cacea1173317a9355 *man/obj.fcn.Rd
+97500cb7a0b46ebb9e8229cf37ed2f61 *man/uwham.Rd
+5b222d8675034a24bf948203101e7e57 *man/uwham.boot.Rd
+ec6aadcad4c13c52c69f0561d2ec68a0 *man/uwham.phi.Rd

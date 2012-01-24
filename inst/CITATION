@@ -1,0 +1,16 @@
+citHeader("To cite package 'UWHAM' in publications use:")
+
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", meta$Date, perl = TRUE)
+vers <- paste("R package version", meta$Version)
+
+citEntry(entry="Manual",
+         title = "UWHAM: Unbinned weighted histogram analysis method",
+         author = personList(as.person("Zhiqiang Tan"),
+         as.person("Emilio Gallicchio")),
+         year = year,
+         note = vers,
+         textVersion =
+         paste("Tan, Z. and Gallicchio, E. (",
+               year,
+               "). UWHAM: Unbinned weighted histogram analysis method. ",
+               vers, ".", sep=""))

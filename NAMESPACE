@@ -1,0 +1,5 @@
+import(trust)
+export(histw, insert,
+       obj.fcn,
+       uwham, uwham.phi,
+       uwham.boot)
