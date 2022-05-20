@@ -1,4 +1,6 @@
 import(trust)
+importFrom("graphics", "axis", "lines", "plot.new", "plot.window", "rect")
+importFrom("stats", "var")
 export(histw, insert,
        obj.fcn,
        uwham, uwham.phi,
